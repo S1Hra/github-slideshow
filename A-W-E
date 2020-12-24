@@ -1,0 +1,8 @@
+<HTML>
+<BODY>
+<SCRIPT language="javaScript">
+var fname="SHRADDHA"
+document.write("Hello"+fname+"<BR>Welcome to lab");
+</SCRIPT>
+</BODY>
+</HTML
